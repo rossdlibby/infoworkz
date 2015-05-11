@@ -54,27 +54,27 @@
 			</div>
 			<div class="space x1">
 				<div class="preview-block">
-					<a href="website-design-web-development.php"><span class="preview" style="background-image: url('../images/pages/website-design-web-development.jpg');"></span>
+					<a href="website-design-web-development.php"><span class="preview" style="background-image: url('images/pages/website-design-web-development.jpg');"></span>
 					Web Design</a>
 				</div>
 				<div class="preview-block">
-					<a href="seo-search-engine-optimization.php"><span class="preview" style="background-image: url('../images/pages/seo-search-engine-optimization.jpg');"></span>
+					<a href="seo-search-engine-optimization.php"><span class="preview" style="background-image: url('images/pages/seo-search-engine-optimization.jpg');"></span>
 					SEO</a>
 				</div>
 				<div class="preview-block">
-					<a href="support-services.php"><span class="preview" style="background-image: url('../images/pages/it-support-help.jpg');"></span>
+					<a href="support-services.php"><span class="preview" style="background-image: url('images/pages/it-support-help.jpg');"></span>
 					IT Support</a>
 				</div>
 				<div class="preview-block">
-					<a href="data-backup-disaster-recovery.php"><span class="preview" style="background-image: url('../images/pages/data-backup-disaster-recovery.jpg');"></span>
+					<a href="data-backup-disaster-recovery.php"><span class="preview" style="background-image: url('images/pages/data-backup-disaster-recovery.jpg');"></span>
 					Data Recovery</a>
 				</div>
 				<div class="preview-block">
-					<a href="web-hosting.php"><span class="preview" style="background-image: url('../images/pages/web-hosting.jpg');"></span>
+					<a href="web-hosting.php"><span class="preview" style="background-image: url('images/pages/web-hosting.jpg');"></span>
 					Web Hosting</a>
 				</div>
 				<div class="preview-block">
-					<a href="computers-servers.php"><span class="preview" style="background-image: url('../images/pages/computers-servers.jpg');"></span>
+					<a href="computers-servers.php"><span class="preview" style="background-image: url('images/pages/computers-servers.jpg');"></span>
 					Computers</a>
 				</div>
 			</div>
