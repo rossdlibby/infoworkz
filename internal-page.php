@@ -10,7 +10,7 @@
 	<div class="w-container">
 		<div class="w-row">
 			<div class="w-col w-col-9">
-				<div class="breadcrumb"><?php echo $title; ?>&nbsp;<span class="lighter"><span>|</span> <em>about this service</em></span></div>
+				<div class="breadcrumb"><?php echo $title; ?></div>
 			</div>
 			<div class="w-col w-col-3 left-aglin-column cetner">
 				<div><a class="bread-link" href="index.html">Home</a>&nbsp; <span><span class="gr-color-l">|&nbsp;</span></span>&nbsp;<?php echo $title; ?></div>
