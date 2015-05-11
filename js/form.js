@@ -14,8 +14,6 @@ $(document).on("ready",function() {
         //get input field values
         var user_name       = $('input[name=name]').val()
         var user_email      = $('input[name=email]').val()
-        var user_subject    = $('input[name=subject]').val()
-        var user_message    = $('textarea[name=message]').val()
        
         //data to be sent to server
         post_data = {'userName':user_name, 'userEmail':user_email, 'userSubject':user_subject, 'userMessage':user_message}
