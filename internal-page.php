@@ -13,7 +13,7 @@
 				<div class="breadcrumb"><?php echo $title; ?></div>
 			</div>
 			<div class="w-col w-col-3 left-aglin-column cetner">
-				<div><a class="bread-link" href="index.html">Home</a>&nbsp; <span><span class="gr-color-l">|&nbsp;</span></span>&nbsp;<?php echo $title; ?></div>
+				<div><a class="bread-link" href="/">Home</a>&nbsp; <span><span class="gr-color-l">|&nbsp;</span></span>&nbsp;<?php echo $title; ?></div>
 			</div>
 		</div>
 	</div>
