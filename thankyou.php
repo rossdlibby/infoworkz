@@ -27,7 +27,7 @@
 <div class="w-section section">
 	<div class="w-container">
 		<div class="tittle-wrapper">
-			<h3 class="h-minimal">Contact</h3>
+			<h3 class="h-minimal">Thank You<br>We'll be in touch shortly</h3>
 			<div class="w-col w-col-2 w-col-offset-4">
 				<p style="text-align: left;"><strong>Phone: </strong>410-543-4848<br>
 					<strong>Fax: </strong>410-452-7088</p>
