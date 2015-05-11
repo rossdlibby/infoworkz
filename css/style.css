@@ -2827,3 +2827,7 @@ html.w-mod-js *[data-ix="side-tab"] {
   background-position: 50%;
   background-repeat: no-repeat;
 }
+
+.banner {
+  background-color: #fff !important;
+}
