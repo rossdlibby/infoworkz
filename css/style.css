@@ -1912,7 +1912,7 @@ p {
   border-radius: 0px 4px 4px 0px;
 }
 .row-slider {
-  margin-top: 50px;
+  /*margin-top: 50px;*/
 }
 .slider-sub-text {
   color: rgba(255, 255, 255, 0.72);
