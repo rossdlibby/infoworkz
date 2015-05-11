@@ -47,7 +47,7 @@
 					</div>
 				<div>
 			<div>
-				<form id="email-form" name="email-form" method="POST" data-name="Email Form">
+				<form id="email-form" name="email-form" method="POST" action="sendmail.php" data-name="Email Form">
 					<div class="w-col w-col-6">
 						<div class="row">
 							<div class="w-col w-col-1 contact-icon">
