@@ -19,7 +19,7 @@ $(document).on("ready",function() {
         post_data = {'userName':user_name, 'userEmail':user_email, 'userSubject':user_subject, 'userMessage':user_message}
        
         //Ajax post data to server
-        $.post('contact_me.php', post_data, function(response){  
+        $.post('sendmail.php', post_data, function(response){  
            
             //load json data from server and output message    
             if(response.type == 'error') {
