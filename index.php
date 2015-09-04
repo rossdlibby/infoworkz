@@ -21,21 +21,7 @@
 <meta http-equiv="Expires" content="never">
 <meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
 <meta http-equiv="PRAGMA" content="NO-CACHE">
-<meta name="Copyright" content="Infoworkz Solutions Group, LLC">
-<meta name="Designer" content="Infoworkz Solutions Group, LLC">
-<meta name="Publisher" content="Infoworkz Solutions Group, LLC">
-<meta name="Revisit-After" content="5">
-<meta name="distribution" content="Global">
-<meta name="Robots" content="INDEX,FOLLOW">
-<meta name="city" content="Salisbury">
-<meta name="state" content="Maryland">
-<meta name="country" content="USA, United States, United States Of America, America, North America">
-<meta name="MSSmartTagsPreventParsing" content="TRUE">
-<meta name="robots" content="all">
-<meta name="category" content="Computers">
-<meta name="author" content="Infoworkz Solutions Group, LLC">
-<meta name="reply-to" content="info@infoworkz.com">
-<meta name="rating" content="Safe For Kids">';
+<meta name="Copyright" content="Infoworkz Solutions Group, LLC">';
 
 		require_once('includes/header.php');
 	?>
@@ -43,7 +29,7 @@
 
 <!-- START BUSINESS SLIDER -->                   
 <div class="banner" id="top" data-ix="show-top-btn">
-	<div class="w-slider bussines-slider" data-animation="slide" data-duration="500" data-infinite="1">
+	<div class="w-slider bussines-slider" data-animation="slide" data-autoplay="1" data-delay="4000" data-duration="750" data-infinite="1">
 		<div class="w-slider-mask">
 			<div class="arrow"></div>
 			<?php include 'includes/slider.php'; ?>

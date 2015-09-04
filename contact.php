@@ -3,6 +3,7 @@
 <head>
 	<?php
 	$header = '<title>Welcome to Infoworkz Solutions Group LLC, Contact</title>
+		<meta name="description" content="Contact Infoworkz Solutions Group today.">
 <meta http-equiv="Content-Type" content="text/html; charset=windows-1251">';
 	include_once('includes/header.php'); ?>
 <!-- END HEADER -->
@@ -29,7 +30,8 @@
 		<div class="tittle-wrapper">
 			<h3 class="h-minimal">Contact</h3>
 			<div class="w-col w-col-2 w-col-offset-4">
-				<p style="text-align: left;"><strong>Phone: </strong>410-543-4848<br>
+				<p style="text-align: left;"><strong>Phone: </strong>410-543-8668<br>
+				<p style="text-align: left;"><strong>Toll Free: </strong>888-308-7350<br>
 					<strong>Fax: </strong>410-452-7088</p>
 			</div>
 			<div class="w-col w-col-2">
